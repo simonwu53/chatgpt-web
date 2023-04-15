@@ -22,6 +22,12 @@
 
 ---
 
+<div style="font-size: 1.5rem;">
+  <a href="./README.md">中文</a> |
+  <a href="./README.en.md">English</a>
+</div>
+</br>
+
 ![cover](./docs/c1.png)
 ![cover2](./docs/c2.png)
 
