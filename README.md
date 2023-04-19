@@ -8,7 +8,10 @@
 
 ### What it enables
 * set up different contexts/roles for each chat by setting system messages individually
+* set up ChatAPI configurations for each chat (e.g. temperature, top_p)
 * enable one-shot conversations by turning off the usingContext button (dictionaries, translators, etc.)
+
+<img src="./docs/s1-sysmsg-1.png" width="480"><img src="./docs/s1-sysmsg-2.png" width="480">
 
 ### Branches
 * `main`: sync with the original main, no modification
@@ -18,6 +21,12 @@
 # Original README.md below
 
 ---
+
+<div style="font-size: 1.5rem;">
+  <a href="./README.md">中文</a> |
+  <a href="./README.en.md">English</a>
+</div>
+</br>
 
 ![cover](./docs/c1.png)
 ![cover2](./docs/c2.png)
