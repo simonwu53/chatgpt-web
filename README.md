@@ -53,6 +53,7 @@
 			- [防止爬虫抓取](#防止爬虫抓取)
 		- [使用 Railway 部署](#使用-railway-部署)
 			- [Railway 环境变量](#railway-环境变量)
+		- [使用 Sealos 部署](#使用-sealos-部署)
 		- [手动打包](#手动打包)
 			- [后端服务](#后端服务-1)
 			- [前端网页](#前端网页-1)
@@ -242,7 +243,7 @@ services:
       # API接口地址，可选，设置 OPENAI_API_KEY 时可用
       OPENAI_API_BASE_URL: xxx
       # API模型，可选，设置 OPENAI_API_KEY 时可用，https://platform.openai.com/docs/models
-      # gpt-4, gpt-4-0314, gpt-4-32k, gpt-4-32k-0314, gpt-3.5-turbo, gpt-3.5-turbo-0301, text-davinci-003, text-davinci-002, code-davinci-002
+      # gpt-4, gpt-4-0314, gpt-4-0613, gpt-4-32k, gpt-4-32k-0314, gpt-4-32k-0613, gpt-3.5-turbo-16k, gpt-3.5-turbo-16k-0613, gpt-3.5-turbo, gpt-3.5-turbo-0301, gpt-3.5-turbo-0613, text-davinci-003, text-davinci-002, code-davinci-002
       OPENAI_API_MODEL: xxx
       # 反向代理，可选
       API_REVERSE_PROXY: xxx
@@ -301,6 +302,12 @@ services:
 | `ALL_PROXY`   | 可选 | 所有代理 代理，支持 http，https, socks5    |
 
 > 注意: `Railway` 修改环境变量会重新 `Deploy`
+
+### 使用 Sealos 部署
+
+[![](https://raw.githubusercontent.com/labring-actions/templates/main/Deploy-on-Sealos.svg)](https://cloud.sealos.io/?openapp=system-fastdeploy%3FtemplateName%3Dchatgpt-web)
+
+> 环境变量与 Docker 环境变量一致
 
 ### 手动打包
 #### 后端服务
