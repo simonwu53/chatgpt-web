@@ -50,6 +50,7 @@ export default {
     clearHistoryConfirm: 'Вы уверены, что хотите очистить историю чата?',
     preview: 'Предварительный просмотр',
     showRawText: 'Показать как обычный текст',
+    thinking: 'Думаю...',
   },
   setting: {
     setting: 'Настройки',

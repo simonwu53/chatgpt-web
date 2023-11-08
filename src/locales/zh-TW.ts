@@ -50,6 +50,7 @@ export default {
     clearHistoryConfirm: '確定清除紀錄?',
     preview: '預覽',
     showRawText: '顯示原文',
+    thinking: '思考中...',
   },
   setting: {
     setting: '設定',

@@ -50,6 +50,7 @@ export default {
     clearHistoryConfirm: '채팅 기록을 삭제하시겠습니까?',
     preview: '미리보기',
     showRawText: '원본 텍스트로 보기',
+    thinking: '생각 중...',
   },
   setting: {
     setting: '설정',

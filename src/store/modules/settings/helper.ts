@@ -47,7 +47,7 @@ function migrateSettings(oldSettings: OldSettingsState): SettingsState {
 export function defaultSetting(): SettingsState {
   return {
     systemMessage: 'You are ChatGPT, a large language model trained by OpenAI. Follow the user\'s instructions carefully. Respond using markdown.',
-    temperature: 0.8,
+    temperature: 1.0,
     top_p: 1,
     perChatSettings: [],
   }

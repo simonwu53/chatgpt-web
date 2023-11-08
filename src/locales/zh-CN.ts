@@ -50,6 +50,7 @@ export default {
     clearHistoryConfirm: '确定清空记录?',
     preview: '预览',
     showRawText: '显示原文',
+    thinking: '思考中...',
   },
   setting: {
     setting: '设置',
