@@ -27,6 +27,10 @@ coverage
 *.njsproj
 *.sln
 *.sw?
+.fleet/*
 
 # Environment variables files
 /service/.env
+
+# output
+prod*
