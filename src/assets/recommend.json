@@ -10,5 +10,29 @@
     "desc": "ChatGPT 中文調教指南 (透過 OpenAI / OpenCC 協助，從簡體中文轉換為繁體中文的版本)",
     "downloadUrl": "https://raw.githubusercontent.com/PlexPt/awesome-chatgpt-prompts-zh/main/prompts-zh-TW.json",
     "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh"
+  },
+  {
+    "key": "translation-prompts",
+    "desc": "自用翻译提示词",
+    "downloadUrl": "https://raw.githubusercontent.com/simonwu53/MyCodeSnippets/master/ChatGPT/translate_prompts.json",
+    "url": "https://github.com/simonwu53/MyCodeSnippets/tree/master/ChatGPT"
+  },
+  {
+    "key": "awesome-chatgpt-prompts-en",
+    "desc": "Awesome ChatGPT Prompts",
+    "downloadUrl": "https://raw.githubusercontent.com/simonwu53/MyCodeSnippets/master/ChatGPT/awesome_chatgpt_prompts.json",
+    "url": "https://github.com/simonwu53/MyCodeSnippets/tree/master/ChatGPT"
+  },
+  {
+    "key": "writing-prompts",
+    "desc": "helping to write essay, paper, letters, messages, etc.",
+    "downloadUrl": "https://raw.githubusercontent.com/simonwu53/MyCodeSnippets/master/ChatGPT/writing.json",
+    "url": "https://github.com/simonwu53/MyCodeSnippets/tree/master/ChatGPT"
+  },
+  {
+    "key": "Others",
+    "desc": "Other roles",
+    "downloadUrl": "https://raw.githubusercontent.com/simonwu53/MyCodeSnippets/master/ChatGPT/others.json",
+    "url": "https://github.com/simonwu53/MyCodeSnippets/tree/master/ChatGPT"
   }
 ]
